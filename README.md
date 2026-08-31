@@ -1,6 +1,7 @@
 # Ramnick Francis Ramos
+**Currently seeking:** Software Development opportunities.
 
-Computer Science graduate from the **University of the Philippines Los Baños**, interested in building practical and cybersecure software systems and exploring **AI/ML engineering**.
+Computer Science graduate from the **University of the Philippines Los Baños**, interested in building practical and cybersecure software systems and exploring job opportunities in **Software Engineering** and expanding towards **AI/ML engineering**.
 
 My background spans **full-stack software development, database systems, cybersecurity, and Python automation**, with experience building applications for research and academic environments.
 
