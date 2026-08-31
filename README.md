@@ -51,7 +51,7 @@ My background spans **full-stack software development, database systems, cyberse
 ## Projects
 
 ### BATSeq: Bioinformatics Database Management System
-![BATSeq](https://ramnickfrancisramos.dev/images/mockups/batseq_landing.png) ![BATSeq](https://ramnickfrancisramos.dev/images/mockups/batseq_mobile_results.png)
+<img src="https://ramnickfrancisramos.dev/images/mockups/batseq_landing.png" width="49%" /> <img src="https://ramnickfrancisramos.dev/images/mockups/batseq_mobile_results.png" width="49%" />
 
 A full-stack platform developed for the **UPLB Museum of Natural History and DOST-NICER Center for Cave Ecosystems Research**.
 
@@ -61,7 +61,7 @@ A full-stack platform developed for the **UPLB Museum of Natural History and DOS
 * Containerized and deployed using Docker and DigitalOcean
 
 ### BRICS: Room Booking and Reservation System
-
+<img src="https://ramnickfrancisramos.dev/images/mockups/brics_report_summary.png" width="49%" /> <img src="https://ramnickfrancisramos.dev/images/mockups/brics_landing.png" width="49%" />
 A web-based room reservation system developed for the **Institute of Computer Science, University of the Philippines Los Baños**.
 
 * Built with ReactJS, NodeJS, ExpressJS, and MongoDB
