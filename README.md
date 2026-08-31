@@ -50,7 +50,7 @@ My background spans **full-stack software development, database systems, cyberse
 
 ## Projects
 
-### BATSeq — Bioinformatics Database Management System
+### BATSeq: Bioinformatics Database Management System
 
 A full-stack platform developed for the **UPLB Museum of Natural History and DOST-NICER Center for Cave Ecosystems Research**.
 
@@ -59,7 +59,7 @@ A full-stack platform developed for the **UPLB Museum of Natural History and DOS
 * Integrated three bioinformatics analysis tools for nucleotide datasets
 * Containerized and deployed using Docker and DigitalOcean
 
-### BRICS — Room Booking and Reservation System
+### BRICS: Room Booking and Reservation System
 
 A web-based room reservation system developed for the **Institute of Computer Science, University of the Philippines Los Baños**.
 
