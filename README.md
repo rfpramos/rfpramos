@@ -51,6 +51,7 @@ My background spans **full-stack software development, database systems, cyberse
 ## Projects
 
 ### BATSeq: Bioinformatics Database Management System
+![BATSeq](https://ramnickfrancisramos.dev/images/mockups/batseq_landing.png) ![BATSeq](https://ramnickfrancisramos.dev/images/mockups/batseq_mobile_results.png)
 
 A full-stack platform developed for the **UPLB Museum of Natural History and DOST-NICER Center for Cave Ecosystems Research**.
 
